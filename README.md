@@ -1,7 +1,7 @@
 # YTE-Event-Management-System
 Summer internship project for learning Java Spring, React and PostgreSQL. Phase 1/5.
 
-Possible problem solutions:  
+Possible solutions if the application does not work properly:  
   
 -Change application database property about hibernate from "update" to "create"   
   
