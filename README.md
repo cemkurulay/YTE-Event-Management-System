@@ -1,5 +1,8 @@
 # YTE-Event-Management-System
-Summer internship project for learning Java Spring, React and PostgreSQL. Phase 1/5.
+This is a summer internship project that I designed and developed from scratch.
+Used Java Spring, React, Hibernate, PostgreSQL, Postman, and IntelliJ while developing.
+
+The system validates input, authenticates users and provides authorization service by utilizing roles for every user.
 
 Possible solutions if the application does not work properly:  
   
